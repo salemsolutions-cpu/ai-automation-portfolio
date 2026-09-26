@@ -18,7 +18,7 @@ If a task repeats, I can automate it.
 | 2 | [Personal AI Agent (Hermes Agent)](case-studies/02-hermes-agent-personal-agent.md) | An assistant that works on a schedule and messages you on Telegram | Sample design |
 | 3 | [Lead Follow-Up Automation](case-studies/03-lead-follow-up-automation.md) | Leads going cold from slow replies | Sample design |
 | 4 | [Appointment Reminder Flow](case-studies/04-appointment-reminders.md) | No-shows | Sample design |
-| 5 | [Form to Sheet to Alert (n8n)](case-studies/05-form-to-alert-n8n.md) | Copying form data by hand | **Built and tested** |
+| 5 | [N8N Automations for Google Form and Sheets](case-studies/05-n8n-automations-google-form-and-sheets.md) | Copying form data by hand | **Built and tested** |
 | 6 | [Client Onboarding Workflow](case-studies/06-client-onboarding-workflow.md) | The same 10 setup steps for every new client | Sample design |
 
 ## Tools

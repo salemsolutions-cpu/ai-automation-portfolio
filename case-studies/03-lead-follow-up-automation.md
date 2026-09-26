@@ -1,6 +1,6 @@
 # Case Study 3: Lead Follow-Up Automation
 
-**Status:** Sample design in GoHighLevel. Demo scenario, not client work. The routing logic is built and tested in n8n. See [Case Study 5](05-form-to-alert-n8n.md).
+**Status:** Sample design in GoHighLevel. Demo scenario, not client work. The routing logic is built and tested in n8n. See [Case Study 5](05-n8n-automations-google-form-and-sheets.md).
 
 ## The problem
 Leads go cold because nobody follows up fast enough. Speed matters. The first business to reply usually wins.
